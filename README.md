@@ -86,7 +86,7 @@ MedPredictRT/
 ├── tests/
 └── README.md
 Installation
-git clone https://github.com/votre-utilisateur/MedPredictRT.git
+git clone https://github.com/ilou/MedPredictRT.git
 
 cd MedPredictRT
 
