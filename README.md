@@ -116,7 +116,7 @@ Intégration avec des objets connectés médicaux
 Entraînement distribué multi-hôpitaux
 Auteur
 
-Développé par [Votre Nom]
+Développé par ilou
 
 Projet personnel de recherche et développement en intelligence artificielle appliquée à la santé.
 
